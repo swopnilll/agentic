@@ -9,6 +9,7 @@ Personal notes on how agentic coding tools work, from the fundamentals up. Each 
 | # | Note | Topics |
 |---|------|--------|
 | 1 | [How Claude Code works](agentic-loop/intro/1-how-claude-code-works.md) | Harness vs. model, choosing a model, stateless model, the assembled prompt, the agentic loop |
+| 2 | [Claude.md and Skills](agentic-loop/intro/2-skill-settings.md) | Harness vs. model, choosing a model, stateless model, the assembled prompt, the agentic loop |
 
 
 ## How to read these notes
